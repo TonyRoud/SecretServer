@@ -2,6 +2,8 @@
 
 This is a wrapper module for managing secret server with PowerShell. The module contains a set of functions which interface with the SecretServer PowerShell module from RamblingCookieMonster https://github.com/RamblingCookieMonster/SecretServer
 
+The module includes functions for automatically locating and launching sessions to devices.
+
 After installing the SecretServer Module, you need to perform a one-time configuration to interface with SecretServer
 
 ## Instructions
